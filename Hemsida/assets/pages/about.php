@@ -1,3 +1,3 @@
 <div class="hero-unit">
-	<p>Grundmall</p>
+	<p>Om oss</p>
 </div>

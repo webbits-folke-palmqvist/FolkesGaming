@@ -1,3 +1,3 @@
 <div class="hero-unit">
-	<p>Server info</p>
+	<p>Nerladdning</p>
 </div>

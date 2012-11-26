@@ -11,3 +11,8 @@ body {
 .hero-unit {
 	padding: 20px;
 }
+
+.ablogo img {
+	width: 25%;
+	display: block;
+}

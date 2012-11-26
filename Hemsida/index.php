@@ -17,6 +17,18 @@ switch ($page) {
 		$show_page = "contact";
 		$title = "Kontakt";
 		break;
+	case 'ServerInfo':
+		$show_page = "serverinfo";
+		$title = "Server info";
+		break;
+	case 'Regler':
+		$show_page = "rules";
+		$title = "Regler";
+		break;
+	case 'Nerladdning':
+		$show_page = "download";
+		$title = "Nerladdning";
+		break;
 	default:
 		$show_page = "404";
 		$title = "404";
@@ -37,11 +49,14 @@ switch ($page) {
 				<div class="navbar-inner">
 					<a class="brand" href="?page=Hem">Folke's Gaming</a>
 					<ul class="nav">
-						<li><a href="?page=Hem">Hem</a></li>
+						<li class="divider-vertical"></li>
+						<li><a href="#">Forum</a></li>
+						<li class="divider-vertical"></li>
+						<li><a href="?page=Regler">Regler</a></li>
 						<li class="divider-vertical"></li>
 						<li><a href="?page=OmOss">Om oss</a></li>
 						<li class="divider-vertical"></li>
-						<li><a href="?page=Kontakt">Kontakt</a></li>
+						<li><a href="?page=Nerladdning">Nerladdning</a></li>
 					</ul>
 				</div>
 			</div>

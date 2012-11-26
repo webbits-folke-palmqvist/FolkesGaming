@@ -25,7 +25,7 @@ switch ($page) {
 ?>
 <html>
 	<head>
-		<title>Rapidio UF · <?php echo $title; ?></title>
+		<title>Folke's Gaming · <?php echo $title; ?></title>
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<link href='assets/css/bootstrap.css' rel='stylesheet' type='text/css'>
 		<link href='assets/css/stylesheet.css' rel='stylesheet' type='text/css'>
@@ -35,7 +35,7 @@ switch ($page) {
 		<div class="container">
 			<div class="navbar">
 				<div class="navbar-inner">
-					<a class="brand" href="?page=Hem">Rapidio UF</a>
+					<a class="brand" href="?page=Hem">Folke's Gaming</a>
 					<ul class="nav">
 						<li><a href="?page=Hem">Hem</a></li>
 						<li class="divider-vertical"></li>

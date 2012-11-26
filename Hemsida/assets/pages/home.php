@@ -8,6 +8,16 @@
 		<div class="hero-unit">
 			<table class="table table-bordered">
 				<tr>
+					<td><strong>play.folkesgaming.com</strong></td>
+					<td><span class="label label-success">Online</span></td>
+				</tr>
+				<tr>
+					<td>Antal slots</td>
+					<td>600 st</td>
+				</tr>
+			</table>
+			<table class="table table-bordered">
+				<tr>
 					<td><strong>Statistik</strong></td>
 				</tr>
 				<tr>
@@ -21,23 +31,6 @@
 				<tr>
 					<td>Inlägg</td>
 					<td>123 st</td>
-				</tr>
-			</table>
-			<table class="table table-bordered">
-				<tr>
-					<td><strong>Main server</strong></td>
-				</tr>
-				<tr>
-					<td>Spelare</td>
-					<td>50 st</td>
-				</tr>
-				<tr>
-					<td>Slot</td>
-					<td>600 st</td>
-				</tr>
-				<tr>
-					<td>Status</td>
-					<td>Online</td>
 				</tr>
 			</table>
 		</div>
